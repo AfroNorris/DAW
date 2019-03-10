@@ -13,9 +13,9 @@ public class PruebasGitHub {
     public static void main(String[] args){
         int a,b,c;
      
-            a=(int)((Math.random()*10)+1);
-            b=(int)((Math.random()*10)+1);
-            c=(int)((Math.random()*10)+1);
+            a=(int)((Math.random()*99)+1);
+            b=(int)((Math.random()*99)+1);
+            c=(int)((Math.random()*99)+1);
             System.out.println("a vale"+a);
             System.out.println("b vale"+b);
             System.out.println("c vale"+c);
